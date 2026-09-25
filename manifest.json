@@ -17,6 +17,7 @@
     "DownloadLinkInstall": "https://github.com/irimsky/AutoFatre/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/irimsky/AutoFatre/releases/latest/download/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1790334658648
+    "LastUpdate": 1790334658,
+    "IconUrl": "https://raw.githubusercontent.com/irimsky/AutoFatre/main/icon.jpg"
   }
 ]
