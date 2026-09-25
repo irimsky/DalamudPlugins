@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "AutoFatre",
+    "Name": "AutoFatre",
+    "InternalName": "AutoFatre",
+    "Punchline": "可恢复的全自动战斗型 FATE 流程",
+    "Description": "通过 Lifestream、vnavmesh、等级同步和目标队列自动执行战斗型 FATE。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/irimsky/AutoFatre",
+    "Tags": [
+      "FATE",
+      "Automation",
+      "vnavmesh"
+    ],
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.2.0.0",
+    "DownloadLinkInstall": "https://github.com/irimsky/AutoFatre/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/irimsky/AutoFatre/releases/latest/download/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1790334658648
+  }
+]
