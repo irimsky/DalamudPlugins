@@ -14,10 +14,13 @@
     ],
     "DalamudApiLevel": 15,
     "AssemblyVersion": "0.2.0.0",
-    "DownloadLinkInstall": "https://github.com/irimsky/AutoFatre/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/irimsky/AutoFatre/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/irimsky/AutoFatre/releases/download/v0.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/irimsky/AutoFatre/releases/download/v0.2.0/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1790334157,
-    "IconUrl": "https://raw.githubusercontent.com/irimsky/AutoFatre/main/icon.png"
+    "LastUpdate": 1790453327,
+    "IconUrl": "https://raw.githubusercontent.com/irimsky/AutoFatre/main/icon.png",
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": true
   }
 ]
