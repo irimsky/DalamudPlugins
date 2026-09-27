@@ -40,12 +40,12 @@
       "Mob"
     ],
     "IconUrl": "https://raw.githubusercontent.com/irimsky/MobGrinder/main/images/icon.png",
-    "Changelog": "完善配置迁移、生命周期清理、测试与发布验证链。",
+    "Changelog": "新增悬浮窗目标进度显示；扫描预设中的任意未完成目标并分别统计击杀数。",
     "RepoUrl": "https://github.com/irimsky/MobGrinder",
-    "AssemblyVersion": "0.1.0.0",
-    "DownloadLinkInstall": "https://github.com/irimsky/MobGrinder/releases/download/v0.1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/irimsky/MobGrinder/releases/download/v0.1.0.0/latest.zip",
+    "AssemblyVersion": "0.1.1.0",
+    "DownloadLinkInstall": "https://github.com/irimsky/MobGrinder/releases/download/v0.1.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/irimsky/MobGrinder/releases/download/v0.1.1.0/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1790533628
+    "LastUpdate": 1790542395
   }
 ]
