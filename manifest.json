@@ -1,10 +1,10 @@
 [
   {
-    "Author": "AutoFatre",
+    "Author": "irimsky",
     "Name": "AutoFatre",
     "InternalName": "AutoFatre",
-    "Punchline": "可恢复的全自动战斗型 FATE 流程",
-    "Description": "通过 Lifestream、vnavmesh、等级同步和目标队列自动执行战斗型 FATE。",
+    "Punchline": "自动传送、跑图并刷 FATE",
+    "Description": "自动传送、跑图、接战并完成战斗型 FATE，支持指定 FATE、地图预设、等级同步和死亡恢复；战斗技能需要另装职业循环插件。使用 /autofatre 或 /af 打开窗口。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/irimsky/AutoFatre",
     "Tags": [
@@ -13,11 +13,11 @@
       "vnavmesh"
     ],
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.2.0.0",
-    "DownloadLinkInstall": "https://github.com/irimsky/AutoFatre/releases/download/v0.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/irimsky/AutoFatre/releases/download/v0.2.0/latest.zip",
+    "AssemblyVersion": "0.2.1.0",
+    "DownloadLinkInstall": "https://github.com/irimsky/AutoFatre/releases/download/v0.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/irimsky/AutoFatre/releases/download/v0.2.1/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1790453327,
+    "LastUpdate": 1790629933,
     "IconUrl": "https://raw.githubusercontent.com/irimsky/AutoFatre/main/icon.png",
     "LoadRequiredState": 1,
     "LoadSync": false,
