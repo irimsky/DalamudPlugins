@@ -13,16 +13,16 @@
       "vnavmesh"
     ],
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.3.3.0",
-    "DownloadLinkInstall": "https://github.com/irimsky/AutoFatre/releases/download/v0.3.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/irimsky/AutoFatre/releases/download/v0.3.3/latest.zip",
+    "AssemblyVersion": "0.3.4.0",
+    "DownloadLinkInstall": "https://github.com/irimsky/AutoFatre/releases/download/v0.3.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/irimsky/AutoFatre/releases/download/v0.3.4/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1791466365,
+    "LastUpdate": 1792153779,
     "IconUrl": "https://raw.githubusercontent.com/irimsky/AutoFatre/main/icon.png",
     "LoadRequiredState": 1,
     "LoadSync": false,
     "CanUnloadAsync": true,
-    "Changelog": "新增启动构建信息日志，记录程序集版本、源码提交和模块 ID，便于确认实际加载的插件，排查同版本旧开发 DLL。沿用自动兑换未解锁商品跳过和出发前检查，避免因加载旧 DLL 而仍暂停。"
+    "Changelog": "新增自动修理设置页，修理接入原有装备与伙伴检查流程，支持耐久阈值、自修、附近 NPC、费用上限及失败策略；修正自修窗口方式校验和重启后的失败冷却。统一共享导航与落点规划，改善起飞准备和叹息海双向飞行中转；伙伴条件满足时直接继续。修复外部临时任务的自动兑换授权与全局配置相互干扰。"
   },
   {
     "Author": "irimsky",
